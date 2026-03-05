@@ -8,6 +8,9 @@ To keep it working in-game you have to turn on "Multi-tasking" inside of Advance
 # How do i use it?
 Prediction Power: Controls the number of layers drawn per frame (unlimited values)
 
+https://github.com/user-attachments/assets/8be3c6e3-90be-4a77-ba0e-334959a98560
+
+
 Prediction Rate: Sets the target frames per second (1-1000+)
 
 Real-time FPS Display: Shows actual performance impact
